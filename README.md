@@ -21,6 +21,6 @@
 - **Tools**: Blender, Audacity
 
 ## How to Run
-- Open the Project in Unity 6000.0.42f1
+- Open the Project in Unity 2022.3.3f1
 - Press Run to start
 - *Use Meta Quest 2 or 3 headset and controllers if possible*
