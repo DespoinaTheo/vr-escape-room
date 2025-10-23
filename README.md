@@ -1,5 +1,6 @@
 # vr-escape-room
-**Gallery 13** is a VR Escape Room developed with XR Device Simulator in Unity as a part of an academic project for the course **Augmented and Virtual Reality**.
+**Gallery 13** is a VR Escape Room developed with XR Device Simulator in Unity as a part of an academic project for the course **Augmented and Virtual Reality**.  
+[View Gameplay](GamePlayVR.mp4)
 
 ## Game Overview
 - Features 2 rooms with tasks to complete and escape.
