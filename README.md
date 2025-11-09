@@ -22,7 +22,7 @@
 - **Tools**: Blender, Audacity
 
 ## How to Run
-- Open the Project in Unity 2022.3.3f1
+- Open the Project in Unity 2022
 - The *Library* folder has been deleted to reduce the project size, so you need to select the *IntroScene* from the *Scenes* folder.
 - Press Run to start
 - *Use Meta Quest 2 or 3 headset and controllers if possible*
